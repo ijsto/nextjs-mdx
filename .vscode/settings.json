@@ -1,0 +1,28 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#ED6292",
+    "titleBar.inactiveBackground": "#ED6292CC",
+    "activityBar.foreground": "#ED6292",
+    "activityBar.background": "#111",
+    "activityBar.inactiveForeground": "#0076ffe5",
+    "activityBarBadge.foreground": "#ffffff",
+    "activityBarBadge.background": "#B838F0",
+    "statusBar.foreground": "#262626",
+    "statusBar.background": "#0076ffe5",
+    "statusBarItem.remoteBackground": "#B838F0"
+  },
+  "editor.formatOnSave": true,
+  // Disable default formatting (ESLint formatting will be used instead)
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  // Auto-fix issues with ESLint when you save code changes
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+}
