@@ -23,8 +23,3 @@ export { default as Editor } from './components/Editor';
 SyntaxError: Unexpected token 'export'
     at wrapSafe (internal/modules/cjs/loader.js:1054:16)
 ```
-
-Supporting branches include:
-
-- clean, latest `slate` + `slate-react` install (**_Working_**)
-- clean, latest alpha `mdx-editor` install (**_Failing_**)
