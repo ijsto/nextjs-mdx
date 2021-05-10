@@ -10,5 +10,6 @@ This Branch is a greenfield (clean `npx create-next-app`) Next.js project.
 
 Supporting branches include:
 
-- clean, latest `slate` + `slate-react` install (**_Working_**)
-- clean, latest alpha `mdx-editor` install (**_Failing_**)
+- clean, `SA/Add-Slate---latest` - `slate` + `slate-react` install (**_Working_**)
+- clean, `SA/MDX-Editor-with-MDX-Serializer` - `mdx-editor` with latest Slate, bundled w `rollup` (**_Failing_**)
+- - clean, `SA/MDX-Editor---original-@blocks-split` - `mdx-editor` with the original @blocks editor, bundled w `rollup` (**_Failing_**)
