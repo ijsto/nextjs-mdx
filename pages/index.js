@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import MDXEditor from '../components/MDXEditor';
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
@@ -14,7 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>Editor Demo</h1>
 
         <div className={styles.demo}>
-          <code>Not implemented.</code>
+          <MDXEditor />
         </div>
 
         <div>
