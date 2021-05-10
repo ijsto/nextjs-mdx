@@ -6,6 +6,7 @@
 yarn && yarn dev
 ```
 
+### **Descritpion**
 This Branch adds `0.0.6@alpha` version of **`mdx-editor`** package to the project. `0.0.6@alpha` contains the latest slate with no modifications (same as the branch `SA/Add-Slate---latest`).
 
 While adding slate works on the branch it fails here with the below error.
