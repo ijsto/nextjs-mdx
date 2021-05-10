@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "mdx-editor": "../mdx/mdx-rich/packages/mdx-editor/mdx-editor-0.0.7.tgz",
+    "mdx-editor": "0.0.7",
     "next": "10.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"

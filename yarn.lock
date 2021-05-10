@@ -4581,9 +4581,10 @@ mdast-util-to-string@^2.0.0:
   resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-2.0.0.tgz#b8cfe6a713e1091cb5b728fc48885a4767f8b97b"
   integrity sha512-AW4DRS3QbBayY/jJmD8437V1Gombjf8RSOUCMFBuo5iHi58AGEgVCKQ+ezHkZZDpAQS75hcBMpLqjpJTjtUL7w==
 
-mdx-editor@../mdx/mdx-rich/packages/mdx-editor/mdx-editor-0.0.7.tgz:
+mdx-editor@0.0.7:
   version "0.0.7"
-  resolved "../mdx/mdx-rich/packages/mdx-editor/mdx-editor-0.0.7.tgz#0b7d75bf54525f8a7cc11e06a742927b9ee6a08e"
+  resolved "https://registry.yarnpkg.com/mdx-editor/-/mdx-editor-0.0.7.tgz#6f851843e8c4ed65caaf7a3cc854ccb061250628"
+  integrity sha512-TDpFrYBZ84fHo0/zi38CI60a76JUrZ7M0Q2pOkYHpYktrIgfiTwDomwizHyahhSHAYU0zVP33Ko21Ax8zMtTAA==
   dependencies:
     "@babel/cli" "^7.13.16"
     "@babel/core" "^7.14.0"
