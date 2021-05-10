@@ -1,5 +1,11 @@
 # Next.js
 
+### **Run it**
+
+```bash
+yarn && yarn dev
+```
+
 This Branch is a greenfield (clean `npx create-next-app`) Next.js project.
 
 Supporting branches include:
