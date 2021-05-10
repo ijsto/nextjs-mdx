@@ -1,5 +1,11 @@
 # Next.js w **`mdx-editor`**
 
+### **Run it**
+
+```bash
+yarn && yarn dev
+```
+
 This Branch adds the latest alpha **`mdx-editor`** package to the project.
 
 Currently failing due to:
